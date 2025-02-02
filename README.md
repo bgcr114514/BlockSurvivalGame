@@ -9,5 +9,5 @@
 美术为作者纯鼠标绘，可能不太美观，请见谅（The art is purely mouse drawn by the author, which may not be very aesthetically pleasing. Please forgive me）
 
 
-#--------------------------------------------------
+# --------------------------------------------------
 作者B站(www.bilibili.com)账号：https://space.bilibili.com/98570793 （Author Bilibili (www.bilibili. com) Account: https://space.bilibili.com/98570793）
