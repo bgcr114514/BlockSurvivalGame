@@ -2,7 +2,7 @@
 用python的pygame写的游戏，适用于Windows（A game written in Python Pygame, suitable for Windows）
 
 # ---------关于音乐(About Music)---------
-音乐出自Trraria的音乐与desmos的函数声（The music comes from Trraria's music and desmos' function sound）
+音乐出自Terraria的音乐与desmos的函数声（The music comes from Trraria's music and desmos' function sound）
 音乐在程序运行时不会播放，如需要播放可取消main.py的第61行注释(Music will not play during program execution at startup. If you need to play it, you can cancel the explanatory note on line 61 of main.py)
 
 # ---------关于美术贴图纹理(About Texture)---------
