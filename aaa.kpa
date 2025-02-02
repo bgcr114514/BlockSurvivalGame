@@ -1,0 +1,4 @@
+game.boss_group = pygame.sprite.Group()
+#game.player_class.life  = 1
+#game.boss_group.add(Boss('biggest_hen',HEIGHT/2,WIDTH/2))
+#game.effect_dict = {"life_add":1000000,"antigravity":1000000000}
