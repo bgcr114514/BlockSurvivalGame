@@ -27,31 +27,31 @@
 2. 跳跃：使用空格键键  
    (Jump: Use spacebar key)
    
-3. 挖掘、放置方块：使用鼠标左、右键
+3. 挖掘、放置方块：使用鼠标左、右键   
    (Digging and placing blocks: Use the left and right mouse buttons)
 
-4.打开合成栏:使用ESC键
+4.打开合成栏:使用ESC键   
    (Open the synthesis bar: use the ESC key)
 
-5.打开指令栏：使用K键
+5.打开指令栏：使用K键   
   (Open the command bar: use the K key)
 
-6.打开交易栏：使用E键
+6.打开交易栏：使用E键   
   (Open the trading bar: use the E key)
 
 # ----------------关于游戏机制(Game Mechanics)-------------------
-1. 生存目标：收集资源、建造避难所、击败敌人（存疑）
+1. 生存目标：收集资源、建造避难所、击败敌人（存疑）   
    (Survival Objective: Collect resources, build shelters, defeat enemies（Not necessarily accurate）)
 
-2. 资源系统：游戏中有多种资源，可以通过挖掘或采集获得  
+2. 资源系统：游戏中有多种资源，可以通过挖掘或采集获得     
    (Resource System: There are multiple resources in the game that can be obtained through mining or gathering)
 
-3. 生物系统：游戏中有各种生物，包括友好的和敌对的  
+3. 生物系统：游戏中有各种生物，包括友好的和敌对的     
    (Biomes System: There are various biomes in the game, including friendly and hostile ones)
 
-4. 天气系统：游戏中有不同的天气，会影响游戏环境  
+4. 天气系统：游戏中有不同的天气，会影响游戏环境     
    (Weather System: There are different weather conditions in the game that can affect the environment)
 
 # ----------------关于更新日志(Update Log)-------------------
-- 0wv1D: 初始版本，添加了基础移动、交互和资源系统,其意思为:正式版本第0个大版本的第一轮更新的D版 
+- 0wv1D: 初始版本，添加了基础移动、交互和资源系统,其意思为:正式版本第0个大版本的第一轮更新的D版                                                            
   (0wv1D: Initial version, added basic movement, interaction, and resource system,The name of this version means:The D version of the first round of updates for the official version's 0th major version)
