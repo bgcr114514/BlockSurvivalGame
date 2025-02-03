@@ -6,7 +6,7 @@
    1. 极为推荐使用Python 3  
       (Highly recommended to use Python 3)
    
-   2. 需要下载库：pygame, sympy, opencv-python (cv2)，可以通过 pip install pygame sympy opencv-python 下载  
+   2. 需要下载库：pygame, sympy, opencv-python (cv2)，可以通过 `pip install pygame sympy opencv-python` 下载  
       (Need to download library: pygame, sympy, opencv-python, you can use   `pip install pygame sympy opencv-python`    to download.)
 
 # ----------运行方式(Operation mode)----------------
