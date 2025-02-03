@@ -30,13 +30,13 @@
    3. 挖掘、放置方块：使用鼠标左、右键   
       (Digging and placing blocks: Use the left and right mouse buttons)
 
-   4.打开合成栏:使用ESC键   
+   4. 打开合成栏:使用ESC键   
       (Open the synthesis bar: use the ESC key)
    
-   5.打开指令栏：使用K键   
+   5. 打开指令栏：使用K键   
      (Open the command bar: use the K key)
    
-   6.打开交易栏：使用E键   
+   6. 打开交易栏：使用E键   
      (Open the trading bar: use the E key)
 
 # ------------关于游戏机制(Game Mechanics)---------------
