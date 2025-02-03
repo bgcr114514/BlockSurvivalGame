@@ -16,7 +16,7 @@
    2. 音乐在程序运行时不会播放，如需要播放可取消`main.py`的第61行注释  
       (Music will not play during program execution at startup. If you need to play it, you can cancel the explanatory note on line 61 of main.py)
 
-# ---------关于美术贴图纹理(About Texture)---------
+# -----------关于美术贴图纹理(About Texture)---------
    1. 美术为作者纯鼠标绘，可能不太美观，请见谅  
       (The texture is purely mouse drawn by the author, which may not be very aesthetically pleasing. Please forgive me)
 
@@ -39,7 +39,7 @@
    6.打开交易栏：使用E键   
      (Open the trading bar: use the E key)
 
-# ----------------关于游戏机制(Game Mechanics)-------------------
+# ------------关于游戏机制(Game Mechanics)---------------
    1. 生存目标：收集资源、建造避难所、击败敌人（存疑）   
       (Survival Objective: Collect resources, build shelters, defeat enemies（Not necessarily accurate）)
    
@@ -52,6 +52,6 @@
    4. 天气系统：游戏中有不同的天气，会影响游戏环境     
    (Weather System: There are different weather conditions in the game that can affect the environment)
 
-# ----------------关于更新日志(Update Log)-------------------
+# ----------------关于更新日志(Update Log)------------------
 - 0wv1D: 初始版本，添加了基础移动、交互和资源系统,其意思为:正式版本第0个大版本的第一轮更新的D版                                                            
   (0wv1D: Initial version, added basic movement, interaction, and resource system,The name of this version means:The D version of the first round of updates for the official version's 0th major version)
