@@ -58,3 +58,7 @@
 # ----------------关于更新日志(Update Log)------------------
 - 0wv1D: 初始版本，添加了基础移动、交互和资源系统,其意思为:正式版本第0个大版本的第一轮更新的D版                                                            
   (0wv1D: Initial version, added basic movement, interaction, and resource system,The name of this version means:The D version of the first round of updates for the official version's 0th major version)
+
+#------------------关于作者(About)---------------------
+-作者B站[www.bilibili.com]账号：(https://space.bilibili.com/98570793)  
+(Author Bilibili[www.bilibili.com] Account:(https://space.bilibili.com/98570793))
