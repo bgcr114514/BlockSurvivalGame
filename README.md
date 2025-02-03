@@ -1,5 +1,5 @@
 # BlockSurvivalGame
-   用Python的pygame编写的生存游戏，适用于Windows，游戏版本号: 0wv1D,游戏内显示语言：简体中文  
+- 用Python的pygame编写的生存游戏，适用于Windows，游戏版本号: 0wv1D,游戏内显示语言：简体中文  
    (A survival game written in Python Pygame, suitable for Windows, Game version: 0wv1D，Language:Chinese(Simplified))
 
 # ----------程序环境(Program Environment)-----------
@@ -10,7 +10,7 @@
       (Need to download library: pygame, sympy, opencv-python, you can use   `pip install pygame sympy opencv-python`    to download.)
 
 # ----------运行方式(Operation mode)----------------
-   1.在根目录打开cmd运行 `python main.py` 或直接运行 `main.py` (Open cmd in the root directory and run `python main.py` or directly run `main.py`)
+   1. 在根目录打开cmd运行 `python main.py` 或直接运行 `main.py` (Open cmd in the root directory and run `python main.py` or directly run `main.py`)
 
 # --------------关于音乐(About Music)---------------
    1. 音乐出自Terraria的音乐与Desmos的函数声  
