@@ -60,5 +60,5 @@
   (0wv1D: Initial version, added basic movement, interaction, and resource system,The name of this version means:The D version of the first round of updates for the official version's 0th major version)
 
 # ------------------关于作者(About)---------------------
--作者B站[www.bilibili.com]账号：(https://space.bilibili.com/98570793)  
-(Author Bilibili[www.bilibili.com] Account:(https://space.bilibili.com/98570793))
+-作者B站 [www.bilibili.com] 账号：(https://space.bilibili.com/98570793)  
+(Author Bilibili [www.bilibili.com] Account: (https://space.bilibili.com/98570793))
