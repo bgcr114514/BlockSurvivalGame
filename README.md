@@ -6,8 +6,11 @@
    1. 极为推荐使用Python 3  
       (Highly recommended to use Python 3)
    
-   2. 需要下载库：pygame, sympy, opencv-python (cv2)  
-      (Need to download library: pygame, sympy, opencv-python)
+   2. 需要下载库：pygame, sympy, opencv-python (cv2)，可以通过 pip install pygame sympy opencv-python 下载  
+      (Need to download library: pygame, sympy, opencv-python, you can use   `pip install pygame sympy opencv-python`    to download.)
+
+# ----------运行方式(Operation mode)----------------
+   1.在根目录打开cmd运行 `python main.py` 或直接运行 `main.py` (Open cmd in the root directory and run `python main.py` or directly run `main.py`)
 
 # --------------关于音乐(About Music)---------------
    1. 音乐出自Terraria的音乐与Desmos的函数声  
