@@ -1,5 +1,5 @@
 # BlockSurvivalGame
-用python的pygame写的游戏，适用于Windows,版本号:0wv1D（A game written in Python Pygame, suitable for Windows, VERSION:0wv1D）
+用python的pygame写的游戏，适用于Windows，游戏版本号:0wv1D（A game written in Python Pygame, suitable for Windows, Game version:0wv1D）
 
 # --------------关于音乐(About Music)---------------
 1.音乐出自Terraria的音乐与desmos的函数声（The music comes from Trraria's music and desmos' function sound）
