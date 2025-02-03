@@ -1,6 +1,11 @@
 # BlockSurvivalGame
 用python的pygame写的游戏，适用于Windows，游戏版本号:0wv1D（A game written in Python Pygame, suitable for Windows, Game version:0wv1D）
 
+# ----------程序环境(Program Environment)-----------
+1.极为推荐使用python3（Highly recommended to use Python 3）
+
+2.需要下载库pygame，sympy，opencv-python(cv2) (Need to download library:pygame,sympy,opencv-python())
+
 # --------------关于音乐(About Music)---------------
 1.音乐出自Terraria的音乐与desmos的函数声（The music comes from Trraria's music and desmos' function sound）
 
@@ -10,5 +15,5 @@
 1.美术为作者纯鼠标绘，可能不太美观，请见谅（The texture is purely mouse drawn by the author, which may not be very aesthetically pleasing. Please forgive me）
 
 
-# --------------------------------------------------------
+# ----------------关于作者(About)------------------
 作者B站( www.bilibili.com )账号： https://space.bilibili.com/98570793  （  Author Bilibili ( www.bilibili.com ) Account: https://space.bilibili.com/98570793  ）
